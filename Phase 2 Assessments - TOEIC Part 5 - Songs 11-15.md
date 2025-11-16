@@ -898,3 +898,624 @@ Choose active or passive: "The CEO ___ (announce) major changes. Several positio
 
 **Next:** Song 14 "If This, Then That" (5 assessments)
 **Progress:** 65/100 TOEIC assessments (65%)
+
+---
+
+## Song 14: "If This, Then That" (Conditional Structures)
+
+---
+
+## Assessment 66
+**Assessment number:** 66
+**Sub-assessment type:** TOEIC 1-50
+**Discourse marker:** Zero Conditional (General Truths and Habits)
+
+**Brief meaning:**
+• **If + present simple, present simple** - "If you heat water to 100°C, it boils."
+• **General truths:** "If employees work overtime, they receive extra pay."
+• **Habits/routines:** "If the alarm sounds, we evacuate immediately."
+
+**Pre-listening:** "Zero conditional expresses general truths, facts, and automatic results. Both clauses use present simple. Use for company policies, scientific facts, and habitual responses. TOEIC tests whether you recognize zero conditional contexts."
+
+**Usage Guide:**
+**MEANING FOCUS:**
+Test-takers scoring 400-500 confuse zero and first conditional. Those scoring 650+ recognize that zero conditional states facts and habits (always true), while first conditional discusses specific future possibilities.
+
+**Score 400-500:** "If you will press this button, the machine will start." ✗
+**Score 650+:** "If you press this button, the machine starts." ✓
+
+General instruction/fact → zero conditional (both present simple).
+
+**Practice Scenarios:**
+
+**Situation 1:** Company policy
+Score 400-500: "If employees will arrive late, they will need to sign in."
+Score 650+: "If employees arrive late, they need to sign in."
+(Policy/rule → zero conditional)
+
+**Situation 2:** Automatic process
+Score 400-500: "If the system will detect an error, it will send an alert."
+Score 650+: "If the system detects an error, it sends an alert."
+(Automatic response → zero conditional)
+
+**Situation 3:** General business practice
+Score 400-500: "If demand will increase, we will hire more staff."
+Score 650+: "If demand increases, we hire more staff."
+(General practice → zero conditional)
+
+**Recording Tips:**
+
+**Avoid:**
+• Using "will" in zero conditional ✗
+• Confusing zero (general truth) with first (specific future) ✗
+• Not recognizing policy/procedure contexts ✗
+
+**Use:**
+• IF + present simple, present simple ✓
+• For: facts, policies, procedures, automatic results ✓
+• "If X happens, Y happens" (always, generally) ✓
+• Common in: manuals, policies, instructions ✓
+
+**Recording Task:**
+Transform: "If you will need assistance, you will contact HR." → "If you need assistance, you contact HR." (General policy)
+
+---
+
+## Assessment 67
+**Assessment number:** 67
+**Sub-assessment type:** TOEIC 1-50
+**Discourse marker:** First Conditional (Real Future Possibilities)
+
+**Brief meaning:**
+• **If + present simple, will + base verb** - "If we finish early, we will celebrate."
+• **Real possibility:** "If the proposal succeeds, we'll expand."
+• **Future plans:** "If you submit by Friday, we will review it next week."
+
+**Pre-listening:** "First conditional expresses real future possibilities—things that can actually happen. 'If' clause uses present simple, main clause uses 'will.' TOEIC tests whether you use correct tense sequence."
+
+**Usage Guide:**
+**MEANING FOCUS:**
+Lower-scoring test-takers use "will" in both clauses or present in both. Higher-scoring test-takers know the pattern: if + present, will + base verb.
+
+**Score 400-500:** "If we will meet the deadline, we will receive a bonus." ✗
+**Score 650+:** "If we meet the deadline, we will receive a bonus." ✓
+
+First conditional: if + present simple (meet), will + base (will receive).
+
+**Practice Scenarios:**
+
+**Situation 1:** Future business outcome
+Score 400-500: "If the client will approve, we will start immediately."
+Score 650+: "If the client approves, we will start immediately."
+("Approve" in if-clause → present simple)
+
+**Situation 2:** Conditional promise
+Score 400-500: "If you will complete the training, you receive certification."
+Score 650+: "If you complete the training, you will receive certification."
+(Main clause → "will receive")
+
+**Situation 3:** Prediction based on condition
+Score 400-500: "If sales increase, profits increase too."
+Score 650+: "If sales increase, profits will increase too."
+(Specific future prediction → use "will" in main clause)
+
+**Recording Tips:**
+
+**Avoid:**
+• Using "will" in the if-clause ✗
+• Using present simple in both clauses (when discussing specific future) ✗
+• Confusing with zero conditional ✗
+
+**Use:**
+• IF + present simple, WILL + base verb ✓
+• For specific future possibilities (can really happen) ✓
+• Main clause can also use: may, might, can, should ✓
+• "If we finish on time, we can/may/should celebrate" ✓
+
+**Recording Task:**
+Transform: "If the project will succeed, we will gain credibility." → "If the project succeeds, we will gain credibility."
+
+---
+
+## Assessment 68
+**Assessment number:** 68
+**Sub-assessment type:** TOEIC 1-50
+**Discourse marker:** Second Conditional (Hypothetical/Unlikely Situations)
+
+**Brief meaning:**
+• **If + past simple, would + base verb** - "If I were CEO, I would change policies."
+• **Hypothetical:** "If we had more budget, we would hire consultants."
+• **Unlikely:** "If the economy improved dramatically, we would expand."
+
+**Pre-listening:** "Second conditional expresses hypothetical or unlikely situations—imagining different present/future. 'If' clause uses past simple, main clause uses 'would.' Note: 'were' for all persons with 'be.' TOEIC tests second conditional recognition."
+
+**Usage Guide:**
+**MEANING FOCUS:**
+Test-takers scoring 400-500 confuse first and second conditional. Those scoring 650+ know: first = real possibility (present + will), second = hypothetical (past + would).
+
+**Score 400-500:** "If we have more time, we would do more research." ✗
+**Score 650+:** "If we had more time, we would do more research." ✓
+
+Hypothetical situation → second conditional (past + would).
+
+**Practice Scenarios:**
+
+**Situation 1:** Hypothetical scenario
+Score 400-500: "If I am the manager, I will change the schedule."
+Score 650+: "If I were the manager, I would change the schedule."
+(Hypothetical—I'm not the manager → second conditional)
+
+**Situation 2:** Unlikely condition
+Score 400-500: "If the company will double its size, we will need new offices."
+Score 650+: "If the company doubled its size, we would need new offices."
+(Unlikely/hypothetical → second conditional)
+
+**Situation 3:** "Were" for all persons
+Score 400-500: "If she was in charge, things will be different."
+Score 650+: "If she were in charge, things would be different."
+(Formal: "were" for all persons in second conditional)
+
+**Recording Tips:**
+
+**Avoid:**
+• Mixing tenses incorrectly (present + would, past + will) ✗
+• Using "was" instead of "were" in formal contexts ✗
+• Confusing hypothetical with real future ✗
+
+**Use:**
+• IF + past simple, WOULD + base verb ✓
+• For hypothetical/imaginary/unlikely situations ✓
+• "Were" for all persons (I/he/she/it/we/they were) ✓
+• Main clause can use: would, could, might ✓
+
+**Recording Task:**
+Transform: "If we have unlimited resources, we will expand globally." → "If we had unlimited resources, we would expand globally." (Hypothetical)
+
+---
+
+## Assessment 69
+**Assessment number:** 69
+**Sub-assessment type:** TOEIC 1-50
+**Discourse marker:** Third Conditional (Past Hypotheticals)
+
+**Brief meaning:**
+• **If + past perfect, would have + past participle** - "If we had known, we would have acted."
+• **Past regret:** "If I had studied harder, I would have passed."
+• **Alternative past:** "If they had invested, they would have profited."
+
+**Pre-listening:** "Third conditional expresses past hypotheticals—imagining a different past. The situation didn't happen. 'If' clause uses past perfect, main clause uses 'would have + past participle.' TOEIC tests this complex structure."
+
+**Usage Guide:**
+**MEANING FOCUS:**
+Lower-scoring test-takers avoid third conditional or make errors. Higher-scoring test-takers recognize past hypothetical contexts and use the pattern correctly.
+
+**Score 400-500:** "If we knew about the problem, we would fix it." ✗ (when talking about past)
+**Score 650+:** "If we had known about the problem, we would have fixed it." ✓
+
+Past hypothetical → third conditional (had + past participle, would have + past participle).
+
+**Practice Scenarios:**
+
+**Situation 1:** Past regret
+Score 400-500: "If we prepared better, we would have won the contract."
+Score 650+: "If we had prepared better, we would have won the contract."
+(Past situation → "had prepared")
+
+**Situation 2:** Alternative past outcome
+Score 400-500: "If they invested earlier, they would make profits."
+Score 650+: "If they had invested earlier, they would have made profits."
+(Both clauses refer to past → full third conditional)
+
+**Situation 3:** Reflecting on past decision
+Score 400-500: "If I would have known, I would have acted differently."
+Score 650+: "If I had known, I would have acted differently."
+(If-clause never uses "would have" → use "had + past participle")
+
+**Recording Tips:**
+
+**Avoid:**
+• Using "would have" in the if-clause ✗
+• Using past simple instead of past perfect in if-clause ✗
+• Mixing second and third conditional ✗
+
+**Use:**
+• IF + past perfect (had + past participle), WOULD HAVE + past participle ✓
+• For imagining different past outcomes ✓
+• Common in: regrets, reflections, alternative scenarios ✓
+• "If we had acted sooner, we would have succeeded" ✓
+
+**Recording Task:**
+Transform: "If we knew about the issue earlier, we would have addressed it." → "If we had known about the issue earlier, we would have addressed it."
+
+---
+
+## Assessment 70
+**Assessment number:** 70
+**Sub-assessment type:** TOEIC 1-50
+**Discourse marker:** Mixed Conditionals and Unless
+
+**Brief meaning:**
+• **Mixed conditional:** "If I had studied business (past), I would be a manager now (present)."
+• **Unless** (= if not): "Unless we act now, we will lose the opportunity."
+• **Provided/providing (that):** "We'll proceed provided the budget is approved."
+
+**Pre-listening:** "Mixed conditionals combine second and third conditional (past condition, present result, or vice versa). 'Unless' means 'if not.' Other conditional words include 'provided,' 'as long as,' 'in case.' TOEIC tests these variations."
+
+**Usage Guide:**
+**MEANING FOCUS:**
+Test-takers scoring 400-500 stick to basic conditionals. Those scoring 650+ recognize mixed conditionals and conditional synonyms like "unless."
+
+**Score 400-500:** "If we don't act, we will succeed." (when meaning: if we don't act, we won't succeed)
+**Score 650+:** "Unless we act, we won't succeed." ✓ OR "If we don't act, we won't succeed." ✓
+
+"Unless" = "if not"
+
+**Practice Scenarios:**
+
+**Situation 1:** Mixed conditional (past → present)
+Score 400-500: "If I graduated from business school, I will have better opportunities now."
+Score 650+: "If I had graduated from business school, I would have better opportunities now."
+(Past condition → present result: past perfect + would + base)
+
+**Situation 2:** Unless (if not)
+Score 400-500: "Unless you will submit, you will not be considered."
+Score 650+: "Unless you submit, you will not be considered."
+("Unless" + present simple, like "if")
+
+**Situation 3:** Provided/as long as
+Score 400-500: "We'll approve the plan if the costs will be reasonable."
+Score 650+: "We'll approve the plan provided the costs are reasonable."
+("Provided" = formal alternative to "if")
+
+**Recording Tips:**
+
+**Avoid:**
+• Using "will" after "unless" ✗
+• Forgetting that "unless" means "if not" ✗
+• Not recognizing "provided," "as long as," "in case" ✗
+
+**Use:**
+• UNLESS + present simple = IF NOT + present simple ✓
+• Mixed conditional: past perfect + would be (past cause, present result) ✓
+• PROVIDED/AS LONG AS = if (formal) ✓
+• IN CASE = because something might happen ✓
+
+**Recording Task:**
+Transform using "unless": "If we don't improve quality, we will lose customers." → "Unless we improve quality, we will lose customers."
+
+---
+
+## Song 14 Complete: 5/5 Assessments Created ✓
+
+**Assessments 66-70 Summary:**
+- Assessment 66: Zero conditional (general truths, if + present, present)
+- Assessment 67: First conditional (real future, if + present, will)
+- Assessment 68: Second conditional (hypothetical, if + past, would)
+- Assessment 69: Third conditional (past hypothetical, if + past perfect, would have)
+- Assessment 70: Mixed conditionals and unless
+
+**Next:** Song 15 "Better, Best, More, and Most" (5 assessments)
+**Progress:** 70/100 TOEIC assessments (70%)
+
+---
+
+## Song 15: "Better, Best, More, and Most" (Comparatives and Superlatives)
+
+---
+
+## Assessment 71
+**Assessment number:** 71
+**Sub-assessment type:** TOEIC 1-50
+**Discourse marker:** Comparative Forms (Adjectives and Adverbs)
+
+**Brief meaning:**
+• **Short adjectives:** -er (faster, cheaper, bigger, easier)
+• **Long adjectives:** more + adjective (more expensive, more difficult, more efficient)
+• **Irregular:** better (not "more good"), worse (not "more bad")
+• **Pattern:** X is faster **than** Y
+
+**Pre-listening:** "Comparatives compare two things. Short adjectives (1-2 syllables) add -er. Long adjectives (3+ syllables) use 'more.' Always use 'than' after comparatives. TOEIC tests whether you choose the correct form."
+
+**Usage Guide:**
+**MEANING FOCUS:**
+Test-takers scoring 400-500 confuse -er and more, or forget "than." Those scoring 650+ automatically know: short = -er, long = more, irregular forms, always + than.
+
+**Score 400-500:** "This solution is more cheap than that one." ✗
+**Score 650+:** "This solution is cheaper than that one." ✓
+
+"Cheap" is short (1 syllable) → add -er, not "more."
+
+**Practice Scenarios:**
+
+**Situation 1:** Short adjectives
+Score 400-500: "The new system is more fast."
+Score 650+: "The new system is faster."
+(One syllable → add -er)
+
+**Situation 2:** Long adjectives
+Score 400-500: "This approach is efficienter."
+Score 650+: "This approach is more efficient."
+(Three syllables → use "more")
+
+**Situation 3:** Irregular forms
+Score 400-500: "The results are more good than expected."
+Score 650+: "The results are better than expected."
+(Irregular: good → better, not "more good")
+
+**Recording Tips:**
+
+**Avoid:**
+• Using "more" with short adjectives (more cheap, more fast) ✗
+• Adding -er to long adjectives (efficien ter, expensiver) ✗
+• Saying "more good" or "more bad" (use better/worse) ✗
+• Forgetting "than" after comparative ✗
+
+**Use:**
+• Short (1-2 syllables) → -ER than (faster, cheaper, easier) ✓
+• Long (3+ syllables) → MORE + adjective than (more expensive) ✓
+• Irregular: good → better, bad → worse, far → farther/further ✓
+• Always use THAN after comparatives ✓
+
+**Recording Task:**
+Transform: "This option is more good and more cheap than the alternative." → "This option is better and cheaper than the alternative."
+
+---
+
+## Assessment 72
+**Assessment number:** 72
+**Sub-assessment type:** TOEIC 1-50
+**Discourse marker:** Superlative Forms (Adjectives and Adverbs)
+
+**Brief meaning:**
+• **Short adjectives:** the + -est (the fastest, the cheapest, the biggest)
+• **Long adjectives:** the most + adjective (the most expensive, the most efficient)
+• **Irregular:** the best, the worst, the farthest
+• **Pattern:** X is **the** fastest **of/in** (group)
+
+**Pre-listening:** "Superlatives identify the extreme among three or more things. Short adjectives add -est. Long adjectives use 'the most.' Always use 'the' before superlatives. TOEIC tests superlative formation and usage."
+
+**Usage Guide:**
+**MEANING FOCUS:**
+Lower-scoring test-takers forget "the" or confuse -est with more. Higher-scoring test-takers know: the + short-est / the most + long, always with "the."
+
+**Score 400-500:** "This is most expensive option." ✗
+**Score 650+:** "This is the most expensive option." ✓
+
+Superlative must have "the."
+
+**Practice Scenarios:**
+
+**Situation 1:** Short adjectives
+Score 400-500: "She is the most fast worker."
+Score 650+: "She is the fastest worker."
+(Short adjective → the + -est)
+
+**Situation 2:** Long adjectives
+Score 400-500: "This is the efficientest solution."
+Score 650+: "This is the most efficient solution."
+(Long adjective → the most + adjective)
+
+**Situation 3:** Irregular forms
+Score 400-500: "This is the most good result we've had."
+Score 650+: "This is the best result we've had."
+(Irregular: good → the best)
+
+**Recording Tips:**
+
+**Avoid:**
+• Omitting "the" before superlatives ✗
+• Using "most" with short adjectives (the most fast) ✗
+• Adding -est to long adjectives (efficientest) ✗
+• Saying "the most good" (use "the best") ✗
+
+**Use:**
+• Short → THE + -EST (the fastest, the cheapest, the easiest) ✓
+• Long → THE MOST + adjective (the most expensive, the most efficient) ✓
+• Irregular: good → the best, bad → the worst ✓
+• Always use THE before superlatives ✓
+
+**Recording Task:**
+Transform: "This is most good option and most cheap solution." → "This is the best option and the cheapest solution."
+
+---
+
+## Assessment 73
+**Assessment number:** 73
+**Sub-assessment type:** TOEIC 1-50
+**Discourse marker:** Double Comparatives and Intensifiers
+
+**Brief meaning:**
+• **Double comparative:** "The more you practice, the better you become."
+• **Much/far/a lot + comparative:** "much faster," "far better," "a lot cheaper"
+• **Even + comparative:** "even more expensive," "even faster"
+• **A bit/slightly + comparative:** "slightly cheaper," "a bit easier"
+
+**Pre-listening:** "Double comparatives show parallel changes (the more X, the more Y). Intensifiers strengthen comparisons (much better = a LOT better, not a little better). TOEIC tests whether you recognize these patterns."
+
+**Usage Guide:**
+**MEANING FOCUS:**
+Test-takers scoring 400-500 don't know double comparatives or intensifier patterns. Those scoring 650+ use these for sophisticated comparisons.
+
+**Score 400-500:** "The more we work, the more we are tired."
+**Score 650+:** "The more we work, the more tired we become." OR "The harder we work, the more tired we become."
+
+Double comparative pattern: the + comparative, the + comparative.
+
+**Practice Scenarios:**
+
+**Situation 1:** Double comparative
+Score 400-500: "More we invest, more we will profit."
+Score 650+: "The more we invest, the more we will profit."
+(Pattern: THE more X, THE more Y)
+
+**Situation 2:** Much/far/a lot (strong intensifier)
+Score 400-500: "This system is very cheaper."
+Score 650+: "This system is much cheaper." OR "This system is far cheaper."
+(Use much/far/a lot with comparatives, not "very")
+
+**Situation 3:** Slightly/a bit (weak intensifier)
+Score 400-500: "The new design is a little more better."
+Score 650+: "The new design is slightly better."
+(Don't use "more" with comparative after intensifier)
+
+**Recording Tips:**
+
+**Avoid:**
+• Forgetting "the" in double comparatives ✗
+• Using "very" with comparatives (use much/far/a lot) ✗
+• Saying "more better" or "more cheaper" ✗
+
+**Use:**
+• Double: THE + comparative, THE + comparative ✓
+• Strong intensifier: MUCH/FAR/A LOT + comparative ✓
+• Weak intensifier: SLIGHTLY/A BIT + comparative ✓
+• EVEN + comparative (even better, even more expensive) ✓
+
+**Recording Task:**
+Transform: "More we practice, more confident we are. The system is very more efficient." → "The more we practice, the more confident we are. The system is much more efficient."
+
+---
+
+## Assessment 74
+**Assessment number:** 74
+**Sub-assessment type:** TOEIC 1-50
+**Discourse marker:** As...As Comparisons (Equality and Inequality)
+
+**Brief meaning:**
+• **Equality:** as + adjective + as (as fast as, as expensive as)
+• **Inequality (negative):** not as/so + adjective + as (not as fast as)
+• **Multiples:** twice as fast, three times as expensive
+• **Pattern:** X is as good as Y
+
+**Pre-listening:** "As...as shows things are equal. Use base adjective (as fast as, NOT as faster as). Negative uses 'not as...as' or 'not so...as.' TOEIC tests whether you use the correct form between 'as' markers."
+
+**Usage Guide:**
+**MEANING FOCUS:**
+Lower-scoring test-takers use comparatives between "as...as." Higher-scoring test-takers know to use the BASE FORM of the adjective.
+
+**Score 400-500:** "This method is as faster as that one." ✗
+**Score 650+:** "This method is as fast as that one." ✓
+
+Between "as...as" → use base form (fast, not faster).
+
+**Practice Scenarios:**
+
+**Situation 1:** Equality
+Score 400-500: "The new policy is as effective than the old one."
+Score 650+: "The new policy is as effective as the old one."
+(Pattern: as + adjective + AS, not "than")
+
+**Situation 2:** Inequality (negative)
+Score 400-500: "This solution isn't so good than the alternative."
+Score 650+: "This solution isn't as good as the alternative."
+(Negative: not as...as OR not so...as)
+
+**Situation 3:** Multiples
+Score 400-500: "The project costs two times more than expected."
+Score 650+: "The project costs twice as much as expected."
+(Multiples: twice as..., three times as...)
+
+**Recording Tips:**
+
+**Avoid:**
+• Using comparative form with as...as (as faster as) ✗
+• Using "than" instead of second "as" ✗
+• Saying "two times" (use "twice") ✗
+
+**Use:**
+• AS + base adjective + AS (as fast as, as expensive as) ✓
+• NOT AS/SO + base adjective + AS (not as fast as) ✓
+• Multiples: twice as, three times as, half as ✓
+• Pattern works with adverbs too: as quickly as ✓
+
+**Recording Task:**
+Transform: "This option is as expensive than that one and twice more costly than the budget." → "This option is as expensive as that one and twice as costly as the budget."
+
+---
+
+## Assessment 75
+**Assessment number:** 75
+**Sub-assessment type:** TOEIC 1-50
+**Discourse marker:** Common Comparative Errors and Special Cases
+
+**Brief meaning:**
+• **Less/least:** less expensive (opposite of more), the least expensive (opposite of most)
+• **Fewer vs. less:** fewer employees (countable), less time (uncountable)
+• **Farther vs. further:** farther (physical distance), further (abstract/additional)
+• **Elder vs. older:** elder brother (family), older building (general)
+
+**Pre-listening:** "Special comparative patterns include 'less/least' (opposites of more/most), 'fewer' vs. 'less' (countable vs. uncountable), and usage distinctions like farther/further. TOEIC tests these subtle differences."
+
+**Usage Guide:**
+**MEANING FOCUS:**
+Test-takers scoring 400-500 use "less" for everything or confuse special cases. Those scoring 650+ know: fewer + countable plural, less + uncountable; farther = distance, further = additional/more.
+
+**Score 400-500:** "We have less employees than last year." ✗
+**Score 650+:** "We have fewer employees than last year." ✓
+
+"Employees" is countable → use "fewer," not "less."
+
+**Practice Scenarios:**
+
+**Situation 1:** Fewer vs. less
+Score 400-500: "We need less resources and less staff members."
+Score 650+: "We need fewer resources and fewer staff members."
+(Countable items → fewer)
+Alternative: "We need less time and less money." ✓
+(Uncountable → less)
+
+**Situation 2:** Farther vs. further
+Score 400-500: "The office is further than I thought." (when talking about physical distance)
+Score 650+: "The office is farther than I thought." (physical distance → farther)
+But: "We need further information." ✓ (additional information → further)
+
+**Situation 3:** Less/least (opposite of more/most)
+Score 400-500: "This is the more less expensive option."
+Score 650+: "This is the least expensive option."
+(Superlative of "less" → the least)
+
+**Recording Tips:**
+
+**Avoid:**
+• Using "less" with countable plural nouns ✗
+• Confusing farther (distance) and further (more/additional) ✗
+• Saying "more less" or "most least" ✗
+
+**Use:**
+• FEWER + countable plural (fewer employees, fewer problems) ✓
+• LESS + uncountable (less time, less money, less information) ✓
+• FARTHER = physical distance ✓
+• FURTHER = additional, more, abstract ✓
+• LESS/LEAST = opposites of more/most ✓
+
+**Recording Task:**
+Transform: "We have less options and less flexibility. The branch is further away, so we need further details." → "We have fewer options and less flexibility. The branch is farther away, so we need further details."
+
+---
+
+## Song 15 Complete: 5/5 Assessments Created ✓
+
+**Assessments 71-75 Summary:**
+- Assessment 71: Comparative forms (-er, more, better, than)
+- Assessment 72: Superlative forms (-est, the most, the best)
+- Assessment 73: Double comparatives and intensifiers
+- Assessment 74: As...as comparisons (equality)
+- Assessment 75: Less/least, fewer vs. less, farther vs. further
+
+---
+
+## SONGS 11-15 COMPLETE: 25/25 ASSESSMENTS CREATED ✓
+
+**File Complete Summary:**
+
+**Song 11:** Relative Pronouns (5 assessments)
+**Song 12:** Infinitives vs. Gerunds (5 assessments)
+**Song 13:** Passive Voice (5 assessments)
+**Song 14:** Conditional Structures (5 assessments)
+**Song 15:** Comparatives and Superlatives (5 assessments)
+
+**Total Progress:** 75/100 TOEIC Part 5 assessments (75%)
+**Overall Progress:** 75/290 total Phase 2 assessments (25.9%)
+
+**Next File:** Phase 2 Assessments - TOEIC Part 5 - Songs 16-20.md
+**Next Song:** Song 16 "Read the Whole Story" (Context Understanding)
